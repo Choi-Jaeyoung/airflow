@@ -1,0 +1,1 @@
+select product_id, product_code from "universe-order".product limit 10;
